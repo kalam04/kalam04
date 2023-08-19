@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **YetFix Limited**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Vue Js**
 
-- 💬 Ask me about **Laravel, React**
+- 💬 Ask me about **Laravel, Vue Js**
 
 - 📫 How to reach me **kalamgbcse@gmail.com**
 
